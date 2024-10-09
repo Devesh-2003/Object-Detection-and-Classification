@@ -1,0 +1,6 @@
+test: /content/drive/MyDrive/YOLO_DETECTION/dataset2/images/test
+train: /content/drive/MyDrive/YOLO_DETECTION/dataset2/images/train
+val: /content/drive/MyDrive/YOLO_DETECTION/dataset2/images/valid
+
+nc: 4
+names: ['aircraft', 'bird', 'drone', 'hot air ballon']
